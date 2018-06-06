@@ -1,9 +1,9 @@
 {
-  "name": "dom-to-image",
-  "version": "2.6.0",
-  "homepage": "https://github.com/tsayen/dom-to-image",
+  "name": "dom-to-image-h4",
+  "version": "2.6.1",
+  "homepage": "https://github.com/h4buli/dom-to-image",
   "authors": [
-    "Anatolii Saienko <anatoly.sayenko@gmail.com>"
+    "Buli"
   ],
   "description": "Generates an image from a DOM node using HTML5 canvas and SVG",
   "main": "src/dom-to-image.js",
